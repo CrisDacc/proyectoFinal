@@ -1,0 +1,40 @@
+.tituloPresentacion {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'RocknRoll One', sans-serif;
+  }
+  
+  .descripcionDePagina {
+    background-color: #FABE58;
+  }
+  
+  .tarjeta {
+    background-color: #FABE58;
+    font-family: 'RocknRoll One', sans-serif;
+  }
+  
+  .btnVer {
+    text-transform: uppercase;
+    background-color: #F5983B;
+    border-radius: 5px;
+    color: black;
+  
+    &:hover {
+      background-color: #E04710;
+    }
+  }
+  
+  .propuestas {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .tituloPropuestas, .textProp {
+    text-align: center;
+  }
+  
+  .imgPropuestas {
+    width: 250px;
+  }
+  
+

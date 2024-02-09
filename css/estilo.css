@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
+.footer {
+  text-align: center;
+  color: black;
+  font-size: 1rem;
+  border-top: gray solid 2px;
+  background-color: #FABE58;
+}
+
+.ingresoDatos {
+  padding: 50px 55px;
+  border-radius: 20px;
+  text-align: center;
+  width: 340px;
+  margin-top: 15px;
+}
+
+.tituloPresentacion {
+  text-align: center;
+  font-size: 2rem;
+  font-family: "RocknRoll One", sans-serif;
+}
+
+.descripcionDePagina {
+  background-color: #FABE58;
+}
+
+.tarjeta {
+  background-color: #FABE58;
+  font-family: "RocknRoll One", sans-serif;
+}
+
+.btnVer {
+  text-transform: uppercase;
+  background-color: #F5983B;
+  border-radius: 5px;
+  color: black;
+}
+.btnVer:hover {
+  background-color: #E04710;
+}
+
+.propuestas {
+  display: flex;
+  flex-direction: row;
+}
+
+.tituloPropuestas, .textProp {
+  text-align: center;
+}
+
+.imgPropuestas {
+  width: 250px;
+}
+
+.fotoCristian {
+  width: 300px;
+}
+
+/*HEADER*/
+.logo {
+  width: 200px;
+  background-color: #F5983B;
+}
+
+.barraInicio {
+  text-transform: uppercase;
+  border: 2px;
+  border-radius: 4px;
+  background-color: #F5983B;
+}
+
+.titulo {
+  font-family: "RocknRoll One", sans-serif;
+  text-align: center;
+  font-size-adjust: 3rem;
+  background-color: #FABE58;
+}
+
+/*# sourceMappingURL=estilo.css.map */
